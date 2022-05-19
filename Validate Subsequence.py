@@ -1,4 +1,5 @@
 # Validate Subsequence
+# Given two array. Have to find if the 2nd arr is a valid subsequence of the 1st one.
 # Time O(n) Space O(1)
 
 arr1 = [5, 1, 22, 25, 6, -1, 8, 10]

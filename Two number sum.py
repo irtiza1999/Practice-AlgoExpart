@@ -1,4 +1,5 @@
 # Two number sum
+# We have an array and a target integer. We need to find a pair of number which's sum == target.
 # Time O(n) Space O(n)
 # def twoNumSum():
 #     mySet = []
